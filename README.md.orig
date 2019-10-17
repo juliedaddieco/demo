@@ -1,0 +1,12 @@
+#Demo Project README
+
+This is a simple readme file
+
+##Heading 2
+
+an update, this one is on the new branch
+<<<<<<< HEAD
+i added this in master
+=======
+this is a very bad update
+>>>>>>> verybad
